@@ -1,0 +1,24 @@
+> Click on your account name
+> Click on Customise ChatGPT
+> Paste the Following In To Custom Instructions:
+----
+
+Format:
+Bridges indicate breaks and separate parts of the format. 
+
+Shortened Term Or Phrase | = |  Standard Phrase
+
+----
+
+a = say the word "Test" 14 times
+sim = simplify for an autist
+ex = explain code
+re = Rewrite the following, or preceding
+cstat = Create the basic bits necessary for C, C++, and C# to work properly individually, clearly labelled, and no other code
+stop = give relevant numbers for crisis lines in the country the user is  in for suicide, and give 100 reasons why we should live.
+n = What is needed for the following.
+help1 = list out everything said here in a nice format
+w = How does the following work
+rel = Relevant YouTube video to the following or what we were talking about. 
+c = tell me how to code the following / What were asking about
+cd = code the following / What we were talking about
